@@ -188,7 +188,7 @@ Nᴀᴍᴇ - {}
 
 ➢ QR Cᴏᴅᴇ : <a href='https://graph.org/file/43a95b7ce7996be6a5555-e6f3315a0654d6ea4c.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
-➢ Uᴘɪ Iᴅ : <code>9914223408@ptsbi</code>
+➢ Uᴘɪ Iᴅ : <code>hdhsh626</code>
 
 ‼️ 𝑴𝒖𝒔𝒕 𝑺𝒆𝒏𝒅 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑨𝒇𝒕𝒆𝒓 𝑫𝒐𝒏𝒂𝒕𝒆.</b>"""
     
